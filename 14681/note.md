@@ -16,7 +16,3 @@
 * **원인:** 사분면의 좌표 부호 조건을 헷갈림.
     * (작성한 것) x > 0, y < 0 일 때 2사분면이라고 판단함 (틀림)
     * (실제) x > 0, y < 0 은 **4사분면**임.
-
-
-
-[Image of Cartesian coordinate system quadrants diagram]
